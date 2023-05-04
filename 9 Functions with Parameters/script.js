@@ -17,3 +17,13 @@ nabeel(12 , 22);
 nabeel("awais" , "ali");
 
 
+
+function salmanAli(num1 = "ali" , num2 = "FSD"){
+    var a = (num1 + num2);
+    console.log(a);
+}
+
+
+salmanAli(18 , 6);
+
+salmanAli();
