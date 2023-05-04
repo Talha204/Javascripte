@@ -8,8 +8,18 @@ function sufi(num1 , num2) {
 }
 
 
-var total = sufi(12 , 15);
-console.log(total);
+var total = sufi(10 , 70);
+per(total)
+
+
+function per (total){
+    var b = total/200 * 100
+    console.log(b);
+}
+
+
+
+
 
 
 
