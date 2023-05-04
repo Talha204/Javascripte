@@ -29,10 +29,10 @@ function subject(math , eng , urdu , ist) {
 
 function percentage(sub){
     var per = sub/400 * 100
-    console.log(per "%");
+    console.log(per , '%');
 }
 
-var sub = subject(50 , 50 , 50 , 50);
+var sub = subject(30 , 29 , 70 , 90);
 percentage(sub)
 
 
