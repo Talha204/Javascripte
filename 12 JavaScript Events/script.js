@@ -3,5 +3,7 @@
 var heading = document.getElementById("heading")
 
 function naveed() {
-    heading.innerHTML = ""
+    heading.innerHTML = "This is new heading"
 }
+
+
