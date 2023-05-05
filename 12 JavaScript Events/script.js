@@ -6,5 +6,3 @@ function naveed() {
     heading.innerText = "This is a new heading"
 }
 
-
-// naveed();
