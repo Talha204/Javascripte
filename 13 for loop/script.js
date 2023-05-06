@@ -1,12 +1,7 @@
 //
 
-for (let talha = 0; talha <= 10; talha++) {
+for (var talha = 0; talha <= 10; talha++) {
 
-    console.log("talha is a boy")
+    console.log(talha , "talha");
 }
 
-
-for (let index = 1; index <= 50; index++) {
-
-    document.write("Talha is very best develper");
-}
