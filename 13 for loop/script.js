@@ -17,11 +17,12 @@
 //     console.log("naveed is best" , saeed);
 // }
 
+var usernumber = +prompt("Enter tha number")
 
 for (let index = 1; index <= 10; index++) {
     
-    console.log( ` 2 * ${index} = ${index *2} `)
+    console.log( ` usernumber * ${index} = ${index * usernumber} `)
 
-    // console.log("2 *" + index + "=" +index * 2);
+    // console.log( usernumber  * + index + "=" +index * usernumber);
 
 }
