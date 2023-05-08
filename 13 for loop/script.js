@@ -18,8 +18,8 @@
 // }
 
 var usernumber = +prompt("Enter tha number")
-
-for (let index = 1; index <= 10; index++) {
+var numoftime = +prompt("enter tha number of time ")
+for (let index = 1; index <= numoftime; index++) {
     
     console.log( `${usernumber} * ${index} = ${index * usernumber} `)
 
