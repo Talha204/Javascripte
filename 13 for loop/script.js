@@ -21,7 +21,7 @@ var usernumber = +prompt("Enter tha number")
 
 for (let index = 1; index <= 10; index++) {
     
-    console.log( ` usernumber * ${index} = ${index * usernumber} `)
+    console.log( `${usernumber} * ${index} = ${index * usernumber} `)
 
     // console.log( usernumber  * + index + "=" +index * usernumber);
 
