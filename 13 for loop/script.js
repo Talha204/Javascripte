@@ -20,5 +20,8 @@
 
 for (let index = 1; index <= 10; index++) {
     
-    console.log("2 *" + index + "=" +index * 2);
+    console.log( ` 2 * ${index} = ${index *2} `)
+
+    // console.log("2 *" + index + "=" +index * 2);
+
 }
